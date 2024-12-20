@@ -24,4 +24,4 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 - 🚀 **Swap with Jupiter V6**: Swap is performed with Jupiter V6 swap aggregator.
 - 🛠️ **Configurable Parameters**: Allows customization of buy amounts, intervals, distribution settings, and more.
 
-https://x.com/0xmooncity
+https://x.com/dogewhiz
