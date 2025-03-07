@@ -1,7 +1,7 @@
 # Meteora Volume Bot
 
 ## 🚀 Overview
-The **Meteora Volume Bot** is an advanced trading automation tool designed to **distribute SOL to multiple wallets** and execute **endless buy and sell swaps** on the **Raydium platform**. Utilizing Solana's blockchain infrastructure, this bot enhances market activity while ensuring seamless operations with **Jupiter V6 swap aggregator**.
+The **Meteora Volume Bot** is an advanced trading automation tool designed to **distribute SOL to multiple wallets** and execute **endless buy and sell swaps** on the **Meteora platform**. Utilizing Solana's blockchain infrastructure, this bot enhances market activity while ensuring seamless operations with **Jupiter V6 swap aggregator**.
 
 ---
 
